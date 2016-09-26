@@ -1,2 +1,3 @@
 # hello-world
-Learing git hub
+Learing github
+5.Click Commit changes button​
